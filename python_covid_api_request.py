@@ -9,7 +9,7 @@ url = "https://covid-19-data.p.rapidapi.com/totals"
 querystring = {"format":"json"}
 
 headers = {
-    'x-rapidapi-key': "3706084193msh9239e64187dcd0ap10739fjsn52bd4db7bcee",
+    'x-rapidapi-key': "API_KEY",
     'x-rapidapi-host': "covid-19-data.p.rapidapi.com"
     }
 
